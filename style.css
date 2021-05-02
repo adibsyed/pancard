@@ -1,0 +1,51 @@
+table,td{
+    border:1px solid black;
+    border-collapse:collapse;
+    
+  }
+  #main{
+    background-color:red;
+    text-align:center;
+    }
+  #id{
+    padding:10px
+  }
+  .firstcol{
+    width:30px;
+  }
+  .seccol{
+    width:1000px
+      
+  }
+  .span{
+    padding:0px 60px 0px 0px
+  }
+  .bracket
+  {
+    color:blue;
+  }
+  .fees{
+      padding-right: 50px;
+  }
+  .upload{
+      padding-right:500px;
+  }
+  .upload1{
+      padding-right: 478px;
+  }
+  .upload2{
+      padding-right: 474px;
+  }
+  .up{
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+  .title1{
+      padding-right: 250px;
+  }
+  .title2{
+      padding-right: 250px;
+  }
+  .title3{
+      padding-right: 185px;
+  }
